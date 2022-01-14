@@ -1,6 +1,6 @@
 # React Ticket Queue whit Socketio (Backend)
 Server create whit Socket.io is used for real-time communication with the Server-ticketApplication.
-It is a ticket application, like the ones you find in pharmacies or hospitals. A person on a device pulls out his ticket and waits to be called by a screen that shows the ticket queue, his turn to wait and where to go to be attended. 
+It is a ticket application, like the ones you find in pharmacies or hospitals. A person on a device pulls out his ticket and waits to be called by a screen that shows the ticket queue, his turn to wait and where to go to be attended. Server Deploy Heroku.
 
 ## Home Page
 ![Captura de pantalla 2022-01-14 181052](https://user-images.githubusercontent.com/48660555/149585794-7dfcfc14-69f0-4888-b23e-b03c9e49783e.png)
@@ -30,6 +30,7 @@ https://github.com/IvanFernandezGracia/react-ticket-queue-socketio-backend
           <li>REST</li>
           <li>CORS</li>                     
           <li>uuid Library</li>  
+          <li>Deploy Heroku</li>  
         </ul>
       </td>    
         <td>
