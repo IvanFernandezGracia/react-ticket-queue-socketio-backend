@@ -43,6 +43,10 @@ https://github.com/IvanFernandezGracia/react-ticket-queue-socketio-backend
   </tbody>
 </table>
 
+## Deploy Heroku
+![image](https://user-images.githubusercontent.com/48660555/149589114-2aac4ca2-83a9-4337-b9c6-0dae9229580c.png)
+https://www.heroku.com/
+
 <!-- CONTACT -->
 ## Contact
 Ivan Alejandro Fernandez Gracia  
